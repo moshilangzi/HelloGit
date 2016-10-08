@@ -6,6 +6,7 @@ public class HelloGit {
 		System.out.println("dongfangbubai");
 		System.out.println("richudongfang");
 		System.out.println("bunengduibuzhu xiongdi");
+		System.out.println("bunengduibuzhu xiongdi");
 	}
 	
 }
